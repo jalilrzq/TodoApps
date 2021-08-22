@@ -1,2 +1,0 @@
-# TodoApps
-TodoApps web application 
